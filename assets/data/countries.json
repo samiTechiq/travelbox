@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Hong Kong",
+    "code": "HK",
+    "emoji": "🇭🇰",
+    "unicode": "U+1F1E6 U+1F1FA",
+    "image": "assets/flags/included/HK.png",
+    "selected": false
+  },
+  {
+    "name": "Australia",
+    "code": "AU",
+    "emoji": "🇦🇺",
+    "unicode": "U+1F1E6 U+1F1FA",
+    "image": "assets/flags/included/AU.png",
+    "selected": false
+  },
+  {
+    "name": "Indonesia",
+    "code": "ID",
+    "emoji": "🇮🇩",
+    "unicode": "U+1F1EE U+1F1E9",
+    "image": "assets/flags/included/Indonesia.png",
+    "selected": false
+  },
+  {
+    "name": "Malaysia",
+    "code": "MY",
+    "emoji": "🇲🇾",
+    "unicode": "U+1F1F2 U+1F1FE",
+    "image": "assets/flags/included/MY.png",
+    "selected": false
+  },
+  {
+    "name": "Singapore",
+    "code": "SG",
+    "emoji": "🇸🇬",
+    "unicode": "U+1F1F8 U+1F1EC",
+    "image": "assets/flags/included/SG.png",
+    "selected": false
+  },
+  {
+    "name": "Thailand",
+    "code": "TH",
+    "emoji": "🇹🇭",
+    "unicode": "U+1F1F9 U+1F1ED",
+    "image": "assets/flags/included/TH.png",
+    "selected": false
+  },
+  {
+    "name": "Vietnam",
+    "code": "VN",
+    "emoji": "🇻🇳",
+    "unicode": "U+1F1FB U+1F1F3",
+    "image": "assets/flags/included/VN.png",
+    "selected": false
+  }
+]

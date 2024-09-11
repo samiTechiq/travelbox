@@ -1,0 +1,1 @@
+enum GadgetCoverState {none, no, yes}

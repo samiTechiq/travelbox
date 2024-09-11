@@ -1,0 +1,1 @@
+enum PhoneState {none, verify}

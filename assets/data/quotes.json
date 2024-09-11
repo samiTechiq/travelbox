@@ -1,0 +1,336 @@
+[
+  {
+    "quoteId": "2f52983e-01ae-435f-ab1a-09e10a0f4898",
+    "name": "Executive basic cover",
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "coverGroups": [
+      {
+        "name": "Your health",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "coverItems": [
+          {
+            "name": "Emergency accident",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "amountCovered": {
+              "amount": 1200000,
+              "currency": "HKD"
+            }
+          },
+          {
+            "name": "Emergency medical expenses",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "amountCovered": {
+              "amount": 1000000,
+              "currency": "HKD"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Your trip",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "coverItems": [
+          {
+            "name": "Trip cancellation",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Trip delay",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Trip Interruption",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      {
+        "name": "Your stuff",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "coverItems": [
+          {
+            "name": "Loss or damage to baggage or effects",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Loss of money",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Loss of travel documents",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      }
+    ],
+    "coverItemsIncludedInQuote": [
+      {
+        "id": "abcsef-123-abc",
+        "name": "Cruise Cover",
+        "price": {
+          "amount": 27,
+          "currency": "HKD"
+        },
+        "shortDescription": "Go on a cruise during the period of insurance?"
+      }
+    ],
+    "quotePrice": {
+      "amount": 227.0,
+      "currency": "HKD"
+    },
+    "addOnCoverItemsAvailable": [
+      {
+        "id": "dad1c924-3648-4268-877f-1d2297aa0aab",
+        "name": "Personal liability",
+        "price": {
+          "amount": 40,
+          "currency": "HKD"
+        },
+        "shortDescription": "This option provides protection against any incident for which you…."
+      },
+      {
+        "id": "7b26d13d-e2d6-423b-8300-7c1ae4038e8d",
+        "name": "Winter sports",
+        "price": {
+          "amount": 17,
+          "currency": "HKD"
+        },
+        "shortDescription": "Coverage for medical-related expenses if you.."
+      },
+      {
+        "id": "3931313d-6cc4-4f84-a14d-3fcb7c1ba36b",
+        "name": "Rental vehicle excess cover",
+        "price": {
+          "amount": 27,
+          "currency": "HKD"
+        },
+        "shortDescription": "In the event of loss of or damage to the vehicle.."
+      },
+      {
+        "id": "26ace822-b228-4af1-b253-e75f88d7376f",
+        "name": "Adventure and extreme sports",
+        "price": {
+          "amount": 27,
+          "currency": "HKD"
+        },
+        "shortDescription": "Coverage for medical-related expenses if you.."
+      },
+      {
+        "id": "28ae7eb5-786f-40ed-bd20-28afa1122545",
+        "name": "Vacation rental protection",
+        "price": {
+          "amount": 100,
+          "currency": "HKD"
+        },
+        "shortDescription": "Be reimbursed up to HK$5,000  in repair/replacement.."
+      },
+      {
+        "id": "86e7e823-84be-4e7f-90b8-afff645a687a",
+        "name": "Gadget cover",
+        "price": {
+          "amount": 150,
+          "currency": "HKD"
+        },
+        "shortDescription": "Benefits of this cover are per person and include:"
+      },
+      {
+        "id": "00305a25-eeeb-4395-baa6-1d7a58dadf78",
+        "name": "Golf cover",
+        "price": {
+          "amount": 150,
+          "currency": "HKD"
+        },
+        "shortDescription": "Benefits of this cover are per person and include:"
+      }
+    ],
+    "travelers": [
+      {
+        "firstName": "dsa",
+        "lastName": "dsa",
+        "dateOfBirth": "2024/07/15"
+      }
+    ],
+    "countries": [],
+    "coverStartDate": "2024-07-20",
+    "coverEndDate": "2025-07-20"
+  },
+  {
+    "quoteId": "d9eb9893-5e18-4e52-ab3f-08c1bb8a5750",
+    "name": "Executive comprehensive cover",
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "coverGroups": [
+      {
+        "name": "Your health",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "coverItems": [
+          {
+            "name": "Emergency accident",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "amountCovered": {
+              "amount": 1200000,
+              "currency": "HKD"
+            }
+          },
+          {
+            "name": "Emergency medical expenses",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "amountCovered": {
+              "amount": 1000000,
+              "currency": "HKD"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Your trip",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "coverItems": [
+          {
+            "name": "Trip cancellation",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "amountCovered": {
+              "amount": 50000,
+              "currency": "HKD"
+            }
+          },
+          {
+            "name": "Trip delay",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "amountCovered": {
+              "amount": 3000,
+              "currency": "HKD"
+            }
+          },
+          {
+            "name": "Trip Interruption",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "amountCovered": {
+              "amount": 50000,
+              "currency": "HKD"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Your stuff",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "coverItems": [
+          {
+            "name": "Loss or damage to baggage or effects",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "amountCovered": {
+              "amount": 20000,
+              "currency": "HKD"
+            }
+          },
+          {
+            "name": "Loss of money",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "amountCovered": {
+              "amount": 3000,
+              "currency": "HKD"
+            }
+          },
+          {
+            "name": "Loss of travel documents",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "amountCovered": {
+              "amount": 20000,
+              "currency": "HKD"
+            }
+          }
+        ]
+      }
+    ],
+    "coverItemsIncludedInQuote": [
+      {
+        "id": "abcsef-123-abc",
+        "name": "Cruise Cover",
+        "price": {
+          "amount": 27,
+          "currency": "HKD"
+        },
+        "shortDescription": "Go on a cruise during the period of insurance?"
+      }
+    ],
+    "quotePrice": {
+      "amount": 527.0,
+      "currency": "HKD"
+    },
+    "addOnCoverItemsAvailable": [
+      {
+        "id": "dad1c924-3648-4268-877f-1d2297aa0aab",
+        "name": "Personal liability",
+        "price": {
+          "amount": 40,
+          "currency": "HKD"
+        },
+        "shortDescription": "This option provides protection against any incident for which you…."
+      },
+      {
+        "id": "7b26d13d-e2d6-423b-8300-7c1ae4038e8d",
+        "name": "Winter sports",
+        "price": {
+          "amount": 17,
+          "currency": "HKD"
+        },
+        "shortDescription": "Coverage for medical-related expenses if you.."
+      },
+      {
+        "id": "3931313d-6cc4-4f84-a14d-3fcb7c1ba36b",
+        "name": "Rental vehicle excess cover",
+        "price": {
+          "amount": 27,
+          "currency": "HKD"
+        },
+        "shortDescription": "In the event of loss of or damage to the vehicle.."
+      },
+      {
+        "id": "26ace822-b228-4af1-b253-e75f88d7376f",
+        "name": "Adventure and extreme sports",
+        "price": {
+          "amount": 27,
+          "currency": "HKD"
+        },
+        "shortDescription": "Coverage for medical-related expenses if you.."
+      },
+      {
+        "id": "28ae7eb5-786f-40ed-bd20-28afa1122545",
+        "name": "Vacation rental protection",
+        "price": {
+          "amount": 100,
+          "currency": "HKD"
+        },
+        "shortDescription": "Be reimbursed up to HK$5,000  in repair/replacement.."
+      },
+      {
+        "id": "86e7e823-84be-4e7f-90b8-afff645a687a",
+        "name": "Gadget cover",
+        "price": {
+          "amount": 150,
+          "currency": "HKD"
+        },
+        "shortDescription": "Benefits of this cover are per person and include:"
+      },
+      {
+        "id": "00305a25-eeeb-4395-baa6-1d7a58dadf78",
+        "name": "Golf cover",
+        "price": {
+          "amount": 150,
+          "currency": "HKD"
+        },
+        "shortDescription": "Benefits of this cover are per person and include:"
+      }
+    ],
+    "travelers": [
+      {
+        "firstName": "dsa",
+        "lastName": "dsa",
+        "dateOfBirth": "2024/07/15"
+      }
+    ],
+    "countries": [],
+    "coverStartDate": "2024-07-20",
+    "coverEndDate": "2025-07-20"
+  }
+]

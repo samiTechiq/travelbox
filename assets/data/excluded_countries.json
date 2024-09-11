@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Cuba",
+    "code": "CU",
+    "emoji": "🇨🇺",
+    "unicode": "U+1F1E8 U+1F1FA",
+    "image": "assets/flags/excluded/CU.png",
+    "selected": false
+  },
+  {
+    "name": "Iran",
+    "code": "IR",
+    "emoji": "🇮🇷",
+    "unicode": "U+1F1EE U+1F1F7",
+    "image": "assets/flags/excluded/IR.png",
+    "selected": false
+  },
+  {
+    "name": "Syria",
+    "code": "SY",
+    "emoji": "🇸🇾",
+    "unicode": "U+1F1F8 U+1F1FE",
+    "image": "assets/flags/excluded/SY.png",
+    "selected": false
+  },
+  {
+    "name": "North Korea",
+    "code": "KP",
+    "emoji": "🇰🇵",
+    "unicode": "U+1F1F0 U+1F1F5",
+    "image": "assets/flags/excluded/North_Korea.png",
+    "selected": false
+  },
+  {
+    "name": "Ukraine",
+    "code": "UA",
+    "emoji": "🇺🇦",
+    "unicode": "U+1F1FA U+1F1E6",
+    "image": "assets/flags/excluded/UA.png",
+    "selected": false
+  }
+]
